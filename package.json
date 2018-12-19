@@ -1,7 +1,7 @@
 {
   "name": "@behaver/gravitational-deflection",
   "version": "1.0.0",
-  "description": "",
+  "description": "This package is used to calculate gravitational deflection",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
