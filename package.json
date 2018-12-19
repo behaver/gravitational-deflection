@@ -1,0 +1,30 @@
+{
+  "name": "@behaver/gravitational-deflection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behaver/gravitational-deflection.git"
+  },
+  "author": "Sanwan, Dong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behaver/gravitational-deflection/issues"
+  },
+  "homepage": "https://github.com/behaver/gravitational-deflection#readme",
+  "dependencies": {
+    "@behaver/coordinate": "^3.3.0",
+    "@behaver/solar-planets-hecc": "^1.0.1"
+  },
+  "devDependencies": {
+    "@behaver/angle": "^2.0.2",
+    "@behaver/jdate": "^2.2.0",
+    "@behaver/precession": "^2.0.1",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
