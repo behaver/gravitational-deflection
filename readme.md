@@ -39,6 +39,7 @@ let res = GD.get();
 
 * options.time   计算时间
 * options.sc     天体球坐标 (距离单位：AU)
+* options.system 坐标系统
 
 `get()`
 
