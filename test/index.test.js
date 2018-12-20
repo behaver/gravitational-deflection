@@ -21,7 +21,7 @@ describe('#GravitationalDeflection', () => {
           time: 123,
           sc: new SphericalCoordinate3D(1, 1, 1),
         })
-      }).to.throw();
+      }).to.throw(); 
     });
   });
 
@@ -37,6 +37,10 @@ describe('#GravitationalDeflection', () => {
             sc,
           }),
           res = GD.get();
+
+      console.log(GD.get());
+
+      GD.system = 'ecliptic';
 
       console.log(GD.get());
     });
