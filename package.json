@@ -17,14 +17,15 @@
   },
   "homepage": "https://github.com/behaver/gravitational-deflection#readme",
   "dependencies": {
-    "@behaver/coordinate": "^3.3.1",
-    "@behaver/solar-planets-hecc": "^1.0.4"
+    "@behaver/coordinate": "^3.3.3",
+    "@behaver/solar-planets-hecc": "^1.0.6"
   },
   "devDependencies": {
-    "@behaver/angle": "^2.0.2",
-    "@behaver/jdate": "^2.3.0",
-    "@behaver/precession": "^2.0.1",
+    "@behaver/angle": "^2.0.3",
+    "@behaver/jdate": "^2.3.2",
+    "@behaver/precession": "^2.0.3",
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
-  }
+  },
+  "files": []
 }
