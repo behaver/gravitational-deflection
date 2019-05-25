@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/behaver/gravitational-deflection#readme",
   "dependencies": {
-    "@behaver/coordinate": "^3.3.3",
-    "@behaver/solar-planets-hecc": "^1.0.6"
+    "@behaver/coordinate": "^3.4.0",
+    "@behaver/solar-planets-hecc": "^1.0.7"
   },
   "devDependencies": {
     "@behaver/angle": "^2.0.3",
