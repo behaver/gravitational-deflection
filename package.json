@@ -25,7 +25,7 @@
     "@behaver/jdate": "^2.3.2",
     "@behaver/precession": "^2.0.3",
     "chai": "^4.2.0",
-    "mocha": "^5.2.0"
+    "mocha": "^10.2.0"
   },
   "files": []
 }
